@@ -1,4 +1,4 @@
-# Mi primer hackeo
+# Mi primer hackeo <3
 En este primer hackeo vamos a usar los progamas de **Block de notas, Python (como la serpiente) y VS studio** para darle un saludo al mundo 
 
 
