@@ -4,4 +4,4 @@ En este primer hackeo vamos a usar los progamas de **Block de notas, Python (com
 
 - **En primera instancia y de manera indispensable, utulizaremos el siguente codigo canón para saludar al mundo en estos 3 progamas:**
 
-dqwdqw
+[Hola-mundo.png](https://postimg.cc/VJrGgjnZ)
