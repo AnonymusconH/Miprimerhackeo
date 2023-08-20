@@ -39,6 +39,18 @@ Si todo sale bien, esta tan solo con dar enter y finalmente saludar al mundo con
 
 ## Saludar al mundo desde VS studio
 
+Para esto, tenemos que abrir Vs Studio con la carpeta donde estuvimos saludando al mundo todo este tiempo. Despues creamero un nuevo codigo de texto (encontrado en la esquina superior izquierda de nuestro progama)
+
+![VS](https://github.com/AnonymusconH/Miprimerhackeo/assets/142249565/7dfc548a-1a0d-49c3-8284-882ec251d45b)
+
+Posteriormente abriremos nuestro respectivo archivo donde colocaremos nuestro respectivo codigo canón para poder saludar al mundo 
+
+![Captura vs](https://github.com/AnonymusconH/Miprimerhackeo/assets/142249565/80ea7a64-2f47-46a4-bfef-658c1b1d9940)
+
+Ya con nuestro codigo correctamente instaurado, solo será cuestion y de correrlo y listo. Con ello ya saludamos al mundo con VS Studio y con los demas progamas de mi primer hackeo
+
+# Muchas gracias <3
+
 
 
 
